@@ -8,7 +8,8 @@
 "MENTOR" : NEELA SANTOSH
 
 
-#DESCRIPTION - to create a quiz application using the web development technologies of HTML, CSS, and JavaScript. Specifically, we will be using pure JavaScript (also known as “vanilla” JavaScript) to create, display, and check the questions and answers of our quiz. 
+# DESCRIPTION
+ To create a quiz application using the web development technologies of HTML, CSS, and JavaScript. Specifically, we will be using pure JavaScript (also known as “vanilla” JavaScript) to create, display, and check the questions and answers of our quiz. 
 
 Here's a general description of what you might find in a  quiz application:
 
@@ -22,7 +23,7 @@ Timer: Some quizzes may incorporate a timer to add a sense of urgency and challe
 
 Score Tracking: The quiz applications usually track your score, allowing you to see how well you performed and also gives you the option to restart the quiz.
 
-#OUTPUT OF QUIZ APPLICATION
+# OUTPUT OF QUIZ APPLICATION
 
 ![Image](https://github.com/user-attachments/assets/1fa32449-999b-4f59-a9ca-f4c4cb0225a1)
 
