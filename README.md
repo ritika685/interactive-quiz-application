@@ -1,4 +1,4 @@
-# interactive-quiz-application
+# INTERACTIVE-QUIZ APPLICATION
 
 "COMPANY": CODTECH IT SOLTIONS
 "NAME"  : RITIKA SONER
