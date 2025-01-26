@@ -23,9 +23,11 @@ Timer: Some quizzes may incorporate a timer to add a sense of urgency and challe
 Score Tracking: The quiz applications usually track your score, allowing you to see how well you performed and identify areas where you might need to improve.
 
 #OUTPUT OF QUIZ APPLICATION
-![Image](https://github.com/user-attachments/assets/8374db9f-91f6-4119-a21b-0989df9b78f5)
-![Image](https://github.com/user-attachments/assets/f7456983-98e9-4fdc-9c41-12b42e8d6f21)
 
-![Image](https://github.com/user-attachments/assets/8e5e3af2-6bf7-420a-9810-d2f2711182ec)
+![Image](https://github.com/user-attachments/assets/1fa32449-999b-4f59-a9ca-f4c4cb0225a1)
 
-![Image](https://github.com/user-attachments/assets/bc1415bd-312e-4571-8c7c-05d04b2e4ee8)
+![Image](https://github.com/user-attachments/assets/9155eb4a-97a7-45e1-89f0-ac3bb800c864)
+
+![Image](https://github.com/user-attachments/assets/097ca79d-c750-4cc8-97e4-9c4ee926ee9b)
+
+![Image](https://github.com/user-attachments/assets/c0b7f801-ab18-44dc-8294-b8651ac89120)
