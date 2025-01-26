@@ -20,7 +20,7 @@ Multiple Choice Questions: Many of the quizzes utilize multiple-choice questions
 
 Timer: Some quizzes may incorporate a timer to add a sense of urgency and challenge your ability to answer questions quickly.
 
-Score Tracking: The quiz applications usually track your score, allowing you to see how well you performed and identify areas where you might need to improve.
+Score Tracking: The quiz applications usually track your score, allowing you to see how well you performed and also gives you the option to restart the quiz.
 
 #OUTPUT OF QUIZ APPLICATION
 
