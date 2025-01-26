@@ -24,3 +24,8 @@ Score Tracking: The quiz applications usually track your score, allowing you to 
 
 #OUTPUT OF QUIZ APPLICATION
 ![Image](https://github.com/user-attachments/assets/8374db9f-91f6-4119-a21b-0989df9b78f5)
+![Image](https://github.com/user-attachments/assets/f7456983-98e9-4fdc-9c41-12b42e8d6f21)
+
+![Image](https://github.com/user-attachments/assets/8e5e3af2-6bf7-420a-9810-d2f2711182ec)
+
+![Image](https://github.com/user-attachments/assets/bc1415bd-312e-4571-8c7c-05d04b2e4ee8)
